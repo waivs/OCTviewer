@@ -142,7 +142,7 @@ def next_vol(fig):
 
 
 # %%
-f0 = oct_viewer(oct_vols,fundus_ims,num=85)
+f0 = oct_viewer(oct_vols,fundus_ims,num=0)
 
 
  # %% run the viewer to display OCT slices and fundus photo
